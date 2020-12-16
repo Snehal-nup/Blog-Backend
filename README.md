@@ -4,3 +4,4 @@ In blog-backend we have created a simple backend that can fetch all the blog, an
 The aim of the project is to simply fetch blogs
 To fetch all the blogs http://localhost:3000/blogstask/blogs.
 To fetch blog by id http://localhost:3000/blogstask/blogs/:id.
+by heroku https://blog-backend-node.herokuapp.com/
