@@ -1,0 +1,28 @@
+{
+  "name": "14-blog-backend",
+  "version": "1.0.0",
+  "description": "This is project to create blog in node.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Snehal-nup/Blog-Backend.git"
+  },
+  "keywords": [
+    "blog-backend",
+    "node.js",
+    "express"
+  ],
+  "author": "snehal sutar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Snehal-nup/Blog-Backend/issues"
+  },
+  "homepage": "https://github.com/Snehal-nup/Blog-Backend#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  }
+}
